@@ -1,4 +1,6 @@
 //project test
+//Nhom : Dang Hoang trung
+//	 Ninh Van Hanh
 public class Beer {
 	public static void main (String[] args)
 	{
@@ -12,16 +14,16 @@ public class Beer {
 		private	String add = "take one down, pass it around";
 		public void show()
 		{
-			System.out.println("Ho va ten: Dang Hoang Trung\t");
-			System.out.println("MSSV : 09020542\t");
-			System.out.println("Lop : Bang kep\t");
-			System.out.println("Github account : trungdh\t");
-			System.out.println("email : conandoye@gmail.com\t");
-			System.out.println("Ho va ten: Ninh Van Hanh\t");
-			System.out.println("MSSV : 09020172\t");
-			System.out.println("Lop : Bang kep\t");
-			System.out.println("Github account : hanhnv-540\t");
-			System.out.println("email : hanhnv.ht@gmail.com\t");
+			System.out.print("Ho va ten: Dang Hoang Trung\t");
+			System.out.print("MSSV : 09020542\t");
+			System.out.print("Lop : Bang kep\t");
+			System.out.print("Github account : trungdh\t");
+			System.out.print("email : conandoye@gmail.com\t");
+			System.out.print("Ho va ten: Ninh Van Hanh\t");
+			System.out.print("MSSV : 09020172\t");
+			System.out.print("Lop : Bang kep\t");
+			System.out.print("Github account : hanhnv-540\t");
+			System.out.print("email : hanhnv.ht@gmail.com\t");
 			for(int i = 9; i>0 ; i--)
 			{
 				System.out.println(+i+ start + i +end);
