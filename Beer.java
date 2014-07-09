@@ -23,7 +23,7 @@ public class Beer {
 			System.out.print("MSSV : 09020172\t");
 			System.out.print("Lop : Bang kep\t");
 			System.out.print("Github account : hanhnv-540\t");
-			System.out.print("email : hanhnv.ht@gmail.com\t");
+			System.out.print("email : hanhnv.ht@gmail.com\n");
 			for(int i = 9; i>0 ; i--)
 			{
 				System.out.println(+i+ start + i +end);
