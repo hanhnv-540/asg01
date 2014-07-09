@@ -18,7 +18,7 @@ public class Beer {
 			System.out.print("MSSV : 09020542\t");
 			System.out.print("Lop : Bang kep\t");
 			System.out.print("Github account : trungdh\t");
-			System.out.print("email : conandoye@gmail.com\t");
+			System.out.print("email : conandoye@gmail.com\n");
 			System.out.print("Ho va ten: Ninh Van Hanh\t");
 			System.out.print("MSSV : 09020172\t");
 			System.out.print("Lop : Bang kep\t");
